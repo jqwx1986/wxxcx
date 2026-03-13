@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">小程序启动器</string>
+    <string name="title">微信小程序</string>
+    <string name="launch">启动</string>
+    <string name="wechat_not_installed">未安装微信</string>
+    <string name="wechat_error">启动失败</string>
+    <string name="install_wechat">请先安装微信应用</string>
+</resources>
